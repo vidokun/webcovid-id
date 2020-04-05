@@ -15,14 +15,14 @@ Dibuat dengan Code Igniter dan Stisla.
 4. Upload scriptnya ke localhost / hosting
 
 ## Credit
-* [Kawal Corona](https://api.kawalcorona.com)
-* [Mathdro.id](https://covid19.mathdro.id/api)
-* [Stisla](https://getstisla.com)
-* [Sepizy](https://sepizy.com)
+* [Kawal Corona](https://api.kawalcorona.com){:target="_blank"}
+* [Mathdro.id](https://covid19.mathdro.id/api){:target="_blank"}{:target="_blank"}
+* [Stisla](https://getstisla.com){:target="_blank"}
+* [Sepizy](https://sepizy.com){:target="_blank"}
 
 ## My Site
-* [Sepizy COVID-19](https://covid19.sepizy.com)
-* [Vidokun - My Personal Blog](https://www.vidokun.com)
+* [Sepizy COVID-19](https://covid19.sepizy.com){:target="_blank"}
+* [Vidokun - My Personal Blog](https://www.vidokun.com){:target="_blank"}
 
 ## License
 
