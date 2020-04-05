@@ -26,4 +26,4 @@ Dibuat dengan Code Igniter dan Stisla.
 
 ## License
 
-MIT License 2020, vidokun
+MIT License 2020, vidokun & Sepizy
