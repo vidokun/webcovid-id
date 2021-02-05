@@ -18,12 +18,12 @@ Dibuat dengan Code Igniter dan Stisla.
 * [Kawal Corona](https://api.kawalcorona.com)
 * [Mathdro.id](https://covid19.mathdro.id/api)
 * [Stisla](https://getstisla.com)
-* [Sepizy](https://sepizy.com)
+* [Origamy](https://origamy.id)
 
 ## My Site
-* [Sepizy COVID-19](https://covid19.sepizy.com)
+* [Origamy Creative Agency](https://origamy.id)
 * [Vidokun - My Personal Blog](https://www.vidokun.com)
 
 ## License
 
-MIT License 2020, vidokun & Sepizy
+MIT License 2020, vidokun & Origamy
